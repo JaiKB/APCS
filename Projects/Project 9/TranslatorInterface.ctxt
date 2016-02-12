@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=boolean\ isVowel(java.lang.String)
+comment1.params=s
+comment1.target=java.lang.String\ translateE2P(java.lang.String)
+comment2.params=s
+comment2.target=java.lang.String\ translateP2E(java.lang.String)
+numComments=3

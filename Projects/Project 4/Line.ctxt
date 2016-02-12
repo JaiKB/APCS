@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getSlope()
+comment0.text=\r\n\ Calculates\ the\ slope\ of\ the\ line\ segment.\r\n\r\n\ @return\ The\ slope\ of\ the\ Line\ object.\r\n
+comment1.params=
+comment1.target=double\ getLength()
+comment1.text=\r\n\ Calculates\ the\ length\ of\ the\ line\ segment.\r\n\r\n\ @return\ The\ length\ of\ the\ Line\ object.\r\n
+comment2.params=
+comment2.target=double\ getPerpSlope()
+comment2.text=\r\n\ Returns\ the\ slope\ of\ line\ segments\ perpendicular\ to\ this\ one\r\n\ @return\ The\ slope\ perpendicular\ to\ this\ line.\r\n
+comment3.params=
+comment3.target=Line\ getPerpBisector()
+comment3.text=\r\n\ Returns\ a\ line\ segment\ of\ the\ same\ length\ as\ this\ line\ with\r\n\ a\ slope\ perpendicular\ to\ this\ line\ running\ through\ this\ line's\r\n\ midpoint\r\n\ @return\ A\ same-length\ perpendicular\ bisector\ Line\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

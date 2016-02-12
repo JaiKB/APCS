@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getFirst()
+comment1.params=
+comment1.target=java.lang.String\ getRest()
+comment2.params=
+comment2.target=Ed\ rightArrow()
+comment3.params=
+comment3.target=Ed\ leftArrow()
+comment4.params=
+comment4.target=Ed\ delete()
+comment5.params=
+comment5.target=Ed\ backspace()
+comment6.params=c
+comment6.target=Ed\ insertString(java.lang.String)
+comment7.params=
+comment7.target=Ed\ homeKey()
+comment8.params=
+comment8.target=Ed\ endKey()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

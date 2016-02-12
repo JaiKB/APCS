@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PigLatinTranslator()
+comment0.text=\r\n\ Empty\ constructor\ because\ constructor\ is\ not\ needed\ \r\n
+comment1.params=s
+comment1.target=boolean\ isVowel(java.lang.String)
+comment1.text=\r\n\ Checks\ if\ a\ letter\ is\ a\ vowel\ or\ not\r\n\ @param\ s\ the\ letter\ to\ put\ in\ the\ method\r\n\ @return\ true\ if\ it\ is\ a\ vowel\ and\ false\ if\ it\ isn't\ a\ vowel\r\n
+comment2.params=s
+comment2.target=java.lang.String\ translateE2P(java.lang.String)
+comment2.text=\r\n\ Translates\ from\ English\ to\ Pig\ Latin\r\n\ @param\ s\ one\ English\ word\ to\ put\ into\ the\ method\r\n\ @return\ Pig\ Latin\ translation\ of\ the\ English\ word\r\n
+comment3.params=s
+comment3.target=java.lang.String\ translateP2E(java.lang.String)
+comment3.text=\r\n\ Translates\ Pig\ Latin\ to\ English\r\n\ @param\ s\ one\ Pig\ Latin\ word\ to\ put\ into\ the\ method\r\n\ @return\ English\ translation\ of\ the\ Pig\ Latin\ word\r\n
+numComments=4

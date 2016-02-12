@@ -1,0 +1,36 @@
+Project documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-8-openjdk/bin/javadoc
+-sourcepath
+/home/tony/Desktop/AP Computer Science/project 03
+-source
+1.8
+-classpath
+/usr/share/java/bluej/bluejcore.jar:/usr/share/java/bluej/junit-4.8.2.jar:/usr/share/java/bluej/userlib/pi4j-service.jar:/usr/share/java/bluej/userlib/pi4j-gpio-extension.jar:/usr/share/java/bluej/userlib/pi4j-core.jar:/usr/share/java/bluej/userlib/pi4j-device.jar:/home/tony/Desktop/AP Computer Science/project 03
+-d
+/home/tony/Desktop/AP Computer Science/project 03/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/usr/share/java/bluej/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+-doctitle
+project 03
+-windowtitle
+project 03
+-author
+-version
+-nodeprecated
+-package
+-link
+http://download.oracle.com/javase/8/docs/api/
+/home/tony/Desktop/AP Computer Science/project 03/Line.java
+/home/tony/Desktop/AP Computer Science/project 03/GrapherPanel.java
+/home/tony/Desktop/AP Computer Science/project 03/Triangle.java
+/home/tony/Desktop/AP Computer Science/project 03/Point.java
+<---- end of javadoc command ---->
+javadoc: error - fatal error
+1 error

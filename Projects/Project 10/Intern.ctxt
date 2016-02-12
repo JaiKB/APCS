@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name\ address\ phone
+comment0.target=Intern(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Creates\ an\ Intern\ with\ a\ name,\ address,\ and\ a\ phone\r\n\ @param\ name\ Name\ of\ the\ Intern\r\n\ @parm\ address\ Address\ of\ the\ Intern\r\n\ @param\ phone\ Phone\ \#\ of\ the\ Intern\r\n
+comment1.params=
+comment1.target=double\ pay()
+comment1.text=\r\n\ Gives\ the\ pay\ for\ the\ intern\ in\ this\ case\ always\ 0\r\n\ @return\ pay\ for\ the\ intern\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ The\ String\ representation\ of\ the\ Intern's\ name,\ address,\ and\ phone\r\n\ @return\ string\ representation\ of\ the\ Intern's\ name,\ address,\ and\ phone\r\n
+numComments=3

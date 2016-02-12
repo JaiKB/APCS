@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ElevensBoard()
+comment0.text=\r\n\ Constructor\ for\ ElevensBoard,\ uses\ super\ to\ use\ constructor\ from\ Abstract\ Board\ class\ \r\n
+comment1.params=selectedCards
+comment1.target=boolean\ isLegal(java.util.List)
+comment1.text=\r\n\ Checks\ to\ see\ if\ the\ move\ for\ Elevens\ Game\ is\ legal\r\n\ @param\ selectedCards\ Cards\ to\ see\ if\ the\ move\ is\ legal\ for\r\n\ @return\ if\ the\ move\ is\ legal\ or\ not\r\n
+comment2.params=
+comment2.target=boolean\ anotherPlayIsPossible()
+comment2.text=\r\n\ See's\ if\ another\ play\ is\ possible\ in\ the\ game\r\n\ @return\ if\ another\ play\ is\ possible\ in\ the\ game\r\n
+comment3.params=
+comment3.target=boolean\ containsPairSum11()
+comment3.text=\r\n\ Checks\ to\ see\ if\ the\ game\ has\ a\ pair\ that\ add\ up\ to\ 11\r\n\ @return\ if\ the\ game\ has\ a\ pair\ that\ adds\ up\ to\ 11\r\n
+comment4.params=
+comment4.target=boolean\ containsJQK()
+comment4.text=\r\n\ Checks\ to\ see\ if\ the\ game\ has\ a\ Jack,\ Queen,\ and\ King\ on\ the\ table\r\n\ @return\ if\ the\ game\ has\ a\ Jack,\ Queen,\ and\ King\ on\ the\ table\ \r\n
+numComments=5

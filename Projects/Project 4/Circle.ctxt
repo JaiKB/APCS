@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=c\ radius
+comment0.target=Circle(Point,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n\ @param\ c\ Takes\ one\ point\ value\ to\ make\ the\ circle\r\n\ @param\ radius\ Asks\ for\ how\ big\ the\ radius\ has\ to\ be\r\n
+comment1.params=
+comment1.target=Point\ getCenter()
+comment1.text=\r\n\ Gets\ the\ center\ point\ of\ the\ circle\r\n\ @return\ the\ center\ point\ of\ the\ circle\r\n
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=\r\n\ Gets\ the\ radius\ of\ the\ circle\r\n\ @return\ radius\ of\ the\ circle\r\n
+comment3.params=
+comment3.target=double\ getPerimeter()
+comment3.text=\r\n\ Gets\ the\ Perimeter/Circumference\ of\ the\ circle\r\n\ @return\ perimeter/circumference\ of\ the\ circle\r\n
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=\r\n\ Gets\ the\ area\ of\ the\ circle\r\n\ @return\ area\ of\ the\ circle\r\n
+numComments=5

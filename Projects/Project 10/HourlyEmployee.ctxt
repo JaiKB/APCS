@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ address\ phone\ SSN\ rate
+comment0.target=HourlyEmployee(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Creates\ an\ HourlyEmployee\ with\ a\ name,\ address,\ phone,\ Social\ Security\ Number,\ and\ their\ payment\r\n\ @param\ name\ Name\ of\ Hourly\ Employee\r\n\ @param\ address\ Address\ of\ Hourly\ Employee\r\n\ @param\ phone\ Phone\ \#\ of\ Hourly\ Employee\r\n\ @param\ SSN\ Social\ Security\ \#\ of\ Employee\r\n\ @param\ rate\ How\ much\ Hourly\ Employee\ makes\ per\ hour\ \r\n
+comment1.params=
+comment1.target=double\ pay()
+comment1.text=\r\n\ Gives\ the\ amount\ earned\ per\ hour\ times\ how\ many\ hours\ the\ Hourly\ Employee\ worked\r\n\ @return\ how\ much\ the\ hourly\ employee\ has\ earned\ depending\ on\ the\ hours\ worked\r\n
+comment2.params=moreHours
+comment2.target=void\ addHours(int)
+comment2.text=\r\n\ Adds\ the\ amount\ of\ hours\ worked\ for\ the\ Hourly\ Employee\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Gives\ the\ toString\ method\ same\ as\ Employee\ with\ Current\ Hours\ added\ on\ \r\n\ @return\ same\ toString\ method\ as\ Employee\ with\ Current\ Hours\ added\ on\r\n
+numComments=4

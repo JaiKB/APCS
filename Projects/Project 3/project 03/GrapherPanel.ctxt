@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GrapherPanel()
+comment0.text=\n\ Creates\ and\ displays\ a\ JFrame\ and\ adds\ a\ GrapherPanel\ object\ to\ it.\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\n\ Draws\ the\ GrapherPanel\ and\ stored\ geometric\ objects.\n\n\ @param\ g\ Graphics\ object\ used\ for\ drawing.\n
+comment2.params=p
+comment2.target=void\ paintPoint(Point)
+comment2.text=\n\ Draws\ a\ Point\ object\ on\ the\ GrapherPanel\ as\ a\ 5\ pixel\ radius\ circle\n\ centered\ on\ the\ Point\ object's\ x\ and\ y\ values\ scaled\ by\ 25\ pixels\n\ per\ integer\ value\ and\ centered\ around\ the\ origin\ at\ 250,\ 250.\n\n\ @param\ p\ The\ Point\ object\ to\ paint.\n
+comment3.params=l
+comment3.target=void\ paintLine(Line)
+comment3.text=\n\ Draws\ a\ Line\ object\ on\ the\ GrapherPanel\ as\ a\ 1\ pixel\ wide\ line\n\ ending\ on\ the\ points\ defining\ the\ Line\ object.\n\n\ @param\ The\ Line\ to\ paint.\n
+comment4.params=t
+comment4.target=void\ paintTriangle(Triangle)
+comment4.text=\n\ Draws\ a\ Triangle\ object\ on\ the\ GrapherPanel\ as\ a\ series\ of\ 1\n\ pixel\ wide\ lines\ contained\ in\ the\ Triangle's\ sides\ variable.\n\n\ @param\ The\ Triangle\ to\ paint.\n
+comment5.params=p
+comment5.target=void\ plotPoint(Point)
+comment5.text=\n\ Adds\ a\ Point\ object\ to\ the\ list\ of\ Points\ to\ draw.\n\n\ @param\ The\ Point\ to\ be\ added\ to\ the\ draw\ list.\n
+comment6.params=l
+comment6.target=void\ plotLine(Line)
+comment6.text=\n\ Adds\ a\ Line\ object\ to\ the\ list\ of\ Lines\ to\ draw.\n\n\ @param\ The\ Line\ to\ be\ added\ to\ the\ draw\ list.\n
+comment7.params=p
+comment7.target=void\ plotTriangle(Triangle)
+comment7.text=\n\ Adds\ a\ Triangle\ object\ to\ the\ list\ of\ Triangles\ to\ draw.\n\n\ @param\ The\ Triangle\ to\ be\ added\ to\ the\ draw\ list.\n
+numComments=8

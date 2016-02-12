@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sides
+comment0.target=Polygon(Line[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Polygon\r\n\ @param\ Line[]\ sides\ Takes\ an\ array\ of\ line\ values\ for\ the\ polygon\r\n
+comment1.params=
+comment1.target=Line[]\ getSides()
+comment1.text=\r\n\ Gets\ the\ sides\ of\ the\ polygon\ \r\n\ @return\ sides\ of\ the\ polygon\r\n
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment2.text=\r\n\ Gets\ the\ peimeter\ of\ the\ polygon\r\n\ @return\ perimeter\ of\ the\ polygon\r\n
+comment3.params=
+comment3.target=double\ getArea()
+comment3.text=\ \r\n\ Gets\ the\ area\ of\ the\ polygon\ \r\n\ @return\ area\ of\ the\ polygon\r\n
+numComments=4

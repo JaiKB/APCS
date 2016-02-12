@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name\ address\ phone
+comment0.target=StaffMember(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constuctor\ creates\ name,\ address,\ and\ phone\ objects\r\n\ @param\ name\ Takes\ a\ String\ representation\ for\ name\r\n\ @param\ address\ Takes\ a\ String\ representation\ for\ address\r\n\ @param\ phone\ Takes\ a\ String\ representation\ for\ phone\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Makes\ a\ string\ representation\ of\ name,\ address,\ and\ phone\r\n\ @return\ string\ representation\ for\ name,\ address,\ and\ phone\r\n
+comment2.params=
+comment2.target=double\ pay()
+comment2.text=\r\n\ Abstract\ method\ that\ is\ implemented\ in\ other\ methods\ to\ be\ caleed.\ \r\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=number\ name\ money
+comment0.target=Technology(int,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Technology\r\n\ @param\ number\ Number\ of\ smartphone\ devices\r\n\ @param\ name\ Name\ of\ the\ smartphone\ device\r\n\ @param\ money\ How\ much\ money\ the\ smartphoen\ costs\r\n
+comment1.params=
+comment1.target=void\ addDevices()
+comment1.text=\r\n\ Adds\ 1\ to\ the\ number\ of\ devices\ \r\n
+comment2.params=newName
+comment2.target=java.lang.String\ setName(java.lang.String)
+comment2.text=\r\n\ @param\ newName\ Sets\ the\ current\ name\ to\ the\ new\ name\ assigned\r\n\ Sets\ a\ new\ name\ for\ the\ device\r\n\ @return\ new\ device\ name\ \r\n
+comment3.params=
+comment3.target=void\ changeCost()
+comment3.text=\r\n\ Changes\ the\ cost\ by\ adding\ 10\ to\ it.\ \r\n
+numComments=4

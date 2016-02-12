@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Point(double,\ double)
+comment0.text=\r\n\ Creates\ a\ Point\ object\r\n\ @param\ \ x\ The\ Point's\ x\ value\r\n\ @param\ \ y\ The\ Point's\ y\ value\r\n
+comment1.params=
+comment1.target=double\ getX()
+comment1.text=\r\n\ Returns\ the\ Point's\ X\ Value.\r\n\ @return\ The\ Point's\ X\ Value\r\n
+comment2.params=
+comment2.target=double\ getY()
+comment2.text=\r\n\ Returns\ the\ Point's\ Y\ Value.\r\n\ @return\ The\ Point's\ Y\ Value.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Creates\ a\ String\ representation\ of\ the\ Point\r\n\ @return\ A\ String\ representing\ the\ Point\ in\ the\ form\ (x,\ y).\r\n
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ that\ runs\ the\ game\ in\ a\ loop\ unless\ said\ otherwise\r\n
+comment1.params=s
+comment1.target=void\ addScore(int)
+comment1.text=\r\n\ Adds\ the\ amount\ of\ score\ due\ to\ the\ Player's\ action\r\n\ @param\ s\ Amount\ of\ score\ to\ be\ added\r\n
+comment2.params=command
+comment2.target=void\ readCommand(java.lang.String)
+comment2.text=\r\n\ Reads\ the\ command\ and\ does\ the\ specified\ action\r\n\ @param\ command\ The\ command\ that\ needs\ to\ be\ read\r\n
+comment3.params=
+comment3.target=void\ fightRobot()
+comment4.params=
+comment4.target=void\ endGame()
+comment4.text=\r\n\ Method\ to\ end\ the\ game\r\n
+comment5.params=
+comment5.target=void\ setup()
+comment5.text=\r\n\ Setups\ all\ the\ items,\ and\ room\ realtionships\ \r\n
+numComments=6
